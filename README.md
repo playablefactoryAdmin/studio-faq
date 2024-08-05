@@ -13,3 +13,4 @@ Welcome! This documentation provides faq's about the studio and template.
         - [How to use transitionFX component?](transitionFX.md)
     - [3D](3d.md)
     - [Assets](assets.md)
+        - [How to use an image asset?](useimage.md)
