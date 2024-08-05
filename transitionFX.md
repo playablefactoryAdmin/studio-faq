@@ -1,5 +1,5 @@
 <div class="center-image">
-  <img src="./img/transitionFX.png" alt="Açıklama Metni">
+  <img src="./img/transitionFX.png" alt="TransitionFx Component Box">
 </div>
 
 <div class="important-message">

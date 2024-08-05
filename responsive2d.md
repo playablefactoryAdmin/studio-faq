@@ -1,5 +1,5 @@
 <div class="center-image">
-  <img src="./img/responsive2d.png" alt="Açıklama Metni">
+  <img src="./img/responsive2D.png" alt="Responsive2D Component Box">
 </div>
 
 ## 1. Scaling
