@@ -12,7 +12,11 @@
 If you want to start the animation with an effect name, you need to specify a name. Otherwise, you can leave it as default.
 
 ```js
-obj.components.transitionFX.play("NewFX");
+const fx = obj.components.transitionFX.play("NewFX");
+
+fx.then(() => {
+    console.log("Fx is completed.")
+});
 ```
 
 ## 2. Autoplay
