@@ -17,7 +17,7 @@ obj.components.transitionFX.play("NewFX");
 
 ## 2. Autoplay
 
-"If you want the animation to start as soon as the object is added to the scene, you can check the autoplay option.
+If you want the animation to start as soon as the object is added to the scene, you can check the autoplay option.
 
 ## 3. Hide On Complete
 
