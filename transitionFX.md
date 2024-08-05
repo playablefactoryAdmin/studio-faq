@@ -1,9 +1,9 @@
-<div style="text-align: center;">
+<div class="center-image">
   <img src="./img/transitionFX.png" alt="Açıklama Metni">
 </div>
 
-<div style="border: 2px solid #ff0000; background-color: #fff4f4; padding: 10px; border-radius: 5px; margin: 10px 0;">
-  <span style="background-color: #ff0000; color: #ffffff; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Important</span>
+<div class="important-message">
+  <span class="danger-badge">Important</span>
   <p>The <strong>TransitionFX</strong> component sets the object's <strong>visible</strong> property to <strong>true</strong> before the animation starts. In some cases, you might not want the object to be visible on the screen before the animation starts; in this case, you can set the object's visible property to false. TransitionFX will automatically set it to true.</p>
 </div>
 
